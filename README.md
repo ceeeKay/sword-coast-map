@@ -8,6 +8,10 @@ available from its official source and owner,
 This project is in no way affiliated with or endorsed by
 Mike Schley or Wizards of the Coast LLC.
 
+## Example
+
+See live demo at https://ceeekay.github.io/sword-coast-map/
+
 ## Tools
 
 This tool makes use of Google Maps Version 3, with HTML and map slices generated
